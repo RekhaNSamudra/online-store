@@ -5,7 +5,7 @@
 5.  An utilty function to capitalize the string is used from utils.js
 6.  CSS modules is used for custom styles
 7.  Javascript, Axios, Bootstrap 5.3 & React v18 are used
-8. Demo Link: https://app.netlify.com/sites/velvety-unicorn-a2950e/deploys/66d0558f8c442ef161bae75d
+8. Demo Link: https://66d0558f8c442ef161bae75d--velvety-unicorn-a2950e.netlify.app/
 
 # Getting Started with Create React App
 
