@@ -1,3 +1,11 @@
+1.  I have used Context API for state management in ProductContext.js
+2.  Context is provided to the APP in App.js
+3.  In Layout.js the master-view ProductList component & detail-view ProductDetail component are arranged in grid for responsiveness
+4.  Props are sent to individual product i.e. ListItem component in ProductList & each selected product i.e. Card component in ProducrDetail.
+5.  An utilty function to capitalize the string is used from utils.js
+6.  CSS modules is used for custom styles
+7.  Javascript, Axios, Bootstrap 5.3 & React v18 are used  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
