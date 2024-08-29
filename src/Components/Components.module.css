@@ -1,0 +1,25 @@
+/* component specific styles */
+.scrollableList {
+  max-height: 100vh;
+  overflow-y: auto;
+  scrollbar-color: #888 #e0e0e0;
+}
+
+.scrollableList::-webkit-scrollbar {
+  width: 8px;
+}
+
+.list {
+  cursor: pointer;
+}
+
+.list:hover {
+  background-color: #dedcdc;
+}
+
+/* Media query for mobile screens */
+@media (max-width: 768px) {
+  .layout {
+    flex-direction: column-reverse;
+  }
+}
